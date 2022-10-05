@@ -1,0 +1,39 @@
+/* Logo Design  */
+.logo{
+    width: 150px;
+    max-width: 100%;
+}
+
+/* Nav Links */
+.nav-link{
+    color: #000;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.nav-link:hover{
+    color: rgba(0, 102, 255, 0.829);
+}
+
+/* Carosole */
+.item-3{
+    background-image: url('../images/cover/cover-3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.item-2{
+    background-image: url('../images/cover/cover-2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.item-1{
+    background-image: url('../images/cover/cover-1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
