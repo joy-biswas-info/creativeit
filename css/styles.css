@@ -58,3 +58,8 @@ section{
 .primary-background{
     background-color: var(--primary-color);
 }
+
+/* About Section Code  */
+#about{
+    background-color: rgba(173, 216, 230, 0.158);
+}
